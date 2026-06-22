@@ -1,0 +1,9 @@
+# MLton build artifacts
+/bin/
+
+# native helpers compiled from tools/
+/tools/genqoi
+/tools/qoi.h
+
+# editor/OS noise
+.DS_Store
