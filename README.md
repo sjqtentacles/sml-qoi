@@ -1,5 +1,7 @@
 # sml-qoi
 
+[![CI](https://github.com/sjqtentacles/sml-qoi/actions/workflows/ci.yml/badge.svg)](https://github.com/sjqtentacles/sml-qoi/actions/workflows/ci.yml)
+
 A complete **QOI** ([Quite OK Image](https://qoiformat.org)) codec in pure
 Standard ML — lossless `encode` / `decode` over the
 [`sml-image`](https://github.com/sjqtentacles/sml-image) RGBA8 representation. No
